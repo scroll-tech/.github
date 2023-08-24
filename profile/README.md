@@ -1,3 +1,5 @@
+![GithubBanner](https://github.com/scroll-tech/.github/assets/7571518/ac2f3de7-0c4e-4319-8779-fe482884fce2)
+
 # Welcome to the Scroll org repos!
 
 Scroll is its own Layer 2 network built on Ethereum (more specifically, a “zero-knowledge rollup”).
